@@ -1,2 +1,2 @@
-# Video-Rental-Sytem
-Video Rental System in C++
+# Movie-Rental-Sytem
+Movie Rental System in C++
